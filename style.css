@@ -1,62 +1,62 @@
 body {
-    background-color: teal;
+  background-color: teal;
 }
 
 .page {
-    padding: 20px;
-    display: flex;
-    justify-content: space-between;
+  padding: 20px;
+  display: flex;
+  justify-content: space-between;
 }
 
 h2 {
-    font-size: 40px;
-    font-family: Ubuntu;
-    color: white;
+  font-size: 40px;
+  font-family: Ubuntu;
+  color: white;
 }
 
 .track {
-    color: white;
-    font-size: 30px;
-    font-family: Open Sans;
+  color: white;
+  font-size: 30px;
+  font-family: Open Sans;
 }
 
 .track span {
-    color: orange;
+  color: orange;
 }
 
 .github {
-    display: flex;
+  display: flex;
 
 }
 
 .git-repo-icon {
-    width: 35px;
-    height: auto;
-    margin-right: 5px;
-    margin-bottom: -5px;
+  width: 35px;
+  height: auto;
+  margin-right: 5px;
+  margin-bottom: -5px;
 }
 
 a {
-    color: white;
-    font-size: 25px;
-    font-weight: 700;
-    font-family: Open Sans;
-    margin-left: 5px;
+  color: white;
+  font-size: 25px;
+  font-weight: 700;
+  font-family: Open Sans;
+  margin-left: 5px;
 }
 
 .image {
-    display: flex;
+  float: right;
 }
 
 .image-size {
-    width: 400px;
-    height: auto;
-    border-radius: 48%;
+  width: 400px;
+  height: auto;
+  border-radius: 50%;
 }
 
 .date-time {
-    display: flexbox;
-    color: white;
-    font-size: 25px;
-    font-family: Open Sans;
+  display: flexbox;
+  color: white;
+  font-size: 25px;
+  font-family: Open Sans;
 }
