@@ -1,4 +1,4 @@
-    //Current date
+//Current date
 const currentDate = new Date();
 
 // Days of the week
